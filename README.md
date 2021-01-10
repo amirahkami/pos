@@ -1,7 +1,7 @@
 # POS
 Point of Sale
 
-### Live Demo
+### [Live Demo](https://amirahkami.github.io/pos/).
 Verfügbar auf [GitHub Pages](https://amirahkami.github.io/pos/).
 
 ### Aufgabe für Frontend
